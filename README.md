@@ -17,3 +17,15 @@ Saga is is a goddess associated with the wisdom.
 ## Constraints
 
 The IA will interact through the text (English) and some predefined pictures.
+
+# Dev environment
+
+## Node JS
+
+Once node in installed on your computer, run the following command in order to get the libraries
+*npm i socket.io*
+*npm i --save-dev nodemon*
+
+Use *npm run devStart* to launch the Server
+
+Use *CTRL* + *F5* in order to apply modifications in your web browwser. You don't need to restart the server.
